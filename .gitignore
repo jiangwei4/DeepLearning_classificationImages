@@ -1,6 +1,2 @@
 /Images
-annotation.tar
-images.tar
-list.tar
-test_data.tar
-train_data.tar
+*.tar
